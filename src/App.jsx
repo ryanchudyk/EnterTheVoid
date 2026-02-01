@@ -730,7 +730,7 @@ const styles = {
   textarea: {
     flex: 1,
     width: '100%',
-    padding: '0 0 60vh 0', // Large bottom padding to keep cursor line at top
+    padding: '0 0 70vh 0', // Large bottom padding to keep cursor line at top
     fontSize: '20px',
     lineHeight: '1.8',
     fontFamily: '"Crimson Pro", Georgia, serif',
