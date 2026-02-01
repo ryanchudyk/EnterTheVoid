@@ -286,7 +286,7 @@ const App = () => {
       <div style={styles.void}>
         <div style={styles.setupContainer}>
           <div style={styles.setupInner}>
-            <h1 style={styles.setupTitle}>What matters most today?</h1>
+            <h1 style={styles.setupTitle}>Welcome to the Void</h1>
             <p style={styles.setupSubtitle}>
               Name your commitment. Once you begin, the void holds you until it's done.
             </p>
